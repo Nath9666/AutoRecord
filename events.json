@@ -1,0 +1,7723 @@
+[
+  {
+    "type": "key",
+    "timestamp": "20241014_151918",
+    "name": "alt",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151918",
+    "name": "tab",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151918",
+    "name": "tab",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_151918",
+    "path": "screenshots/screenshot_20241014_151918.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151919",
+    "name": "alt",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151920",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151920",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151926",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151926",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151930",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151931",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151933",
+    "name": "i",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151933",
+    "name": "i",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_151933",
+    "path": "screenshots/screenshot_20241014_151933.png"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151936",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151936",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151939",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151939",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151941",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151941",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151941",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151941",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151943",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151943",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151945",
+    "name": "alt",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151945",
+    "name": "z",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151945",
+    "name": "z",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_151945",
+    "path": "screenshots/screenshot_20241014_151945.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151945",
+    "name": "alt",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151949",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151949",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151950",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151950",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151951",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151951",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151953",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151953",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151954",
+    "name": "e",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_151954",
+    "name": "e",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_151954",
+    "path": "screenshots/screenshot_20241014_151954.png"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151958",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_151958",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152002",
+    "name": "alt",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152002",
+    "name": "z",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152003",
+    "name": "z",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152003",
+    "path": "screenshots/screenshot_20241014_152003.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152003",
+    "name": "alt",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152010",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152010",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152010",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152010",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152011",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152011",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152013",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152013",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152016",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152016",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152018",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152020",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152022",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152023",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152024",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152024",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152028",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152028",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152031",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152031",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152033",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152033",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152037",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152037",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152039",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152039",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152040",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152040",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152041",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152041",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152042",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152042",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152045",
+    "name": "s",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152046",
+    "name": "s",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152046",
+    "path": "screenshots/screenshot_20241014_152046.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152046",
+    "name": "z",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152046",
+    "name": "z",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152048",
+    "button": "right",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152048",
+    "button": "right",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152052",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152052",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152053",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152053",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152054",
+    "name": "s",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152054",
+    "path": "screenshots/screenshot_20241014_152054.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152055",
+    "name": "s",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152055",
+    "name": "z",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152055",
+    "name": "z",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152055",
+    "path": "screenshots/screenshot_20241014_152055.png"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152057",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152057",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152058",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152058",
+    "name": "b",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152058",
+    "name": "b",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152058",
+    "path": "screenshots/screenshot_20241014_152058.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152059",
+    "name": "ctrl",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152103",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152103",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152103",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152103",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152104",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152105",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152109",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152109",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152110",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152110",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152111",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152111",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152112",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152112",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152112",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152113",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152113",
+    "path": "screenshots/screenshot_20241014_152113.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152113",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152120",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152120",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152122",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152122",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152124",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152124",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152126",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152127",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152128",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152128",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152130",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152130",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152132",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152132",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152133",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152133",
+    "name": "1",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152133",
+    "path": "screenshots/screenshot_20241014_152133.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152133",
+    "name": "1",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152133",
+    "name": "8",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152133",
+    "name": "8",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152133",
+    "path": "screenshots/screenshot_20241014_152133.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152134",
+    "name": "0",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152134",
+    "name": "0",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152134",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152134",
+    "path": "screenshots/screenshot_20241014_152134.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152134",
+    "name": "enter",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152134",
+    "name": "enter",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152135",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152135",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152136",
+    "name": "-",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152136",
+    "path": "screenshots/screenshot_20241014_152136.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152137",
+    "name": "-",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152137",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152137",
+    "name": "1",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152137",
+    "path": "screenshots/screenshot_20241014_152137.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152137",
+    "name": "1",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152137",
+    "name": "8",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152137",
+    "name": "8",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152137",
+    "path": "screenshots/screenshot_20241014_152137.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152138",
+    "name": "0",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152138",
+    "name": "0",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152138",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152138",
+    "path": "screenshots/screenshot_20241014_152138.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152138",
+    "name": "enter",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152138",
+    "name": "enter",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152140",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152143",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152144",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152145",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152146",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152146",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152146",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152146",
+    "path": "screenshots/screenshot_20241014_152146.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152147",
+    "name": "0",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152147",
+    "name": "0",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152147",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152147",
+    "path": "screenshots/screenshot_20241014_152147.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152148",
+    "name": "enter",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152148",
+    "name": "enter",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152148",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152152",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152153",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152153",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152154",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152154",
+    "path": "screenshots/screenshot_20241014_152154.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152154",
+    "name": "1",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152154",
+    "name": "1",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152154",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152154",
+    "path": "screenshots/screenshot_20241014_152154.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152155",
+    "name": "enter",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152155",
+    "name": "enter",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152155",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152155",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152156",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152156",
+    "path": "screenshots/screenshot_20241014_152156.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152156",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152156",
+    "name": "backspace",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152156",
+    "name": "backspace",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152156",
+    "path": "screenshots/screenshot_20241014_152156.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152157",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152157",
+    "name": "1",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152157",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152157",
+    "path": "screenshots/screenshot_20241014_152157.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152157",
+    "name": "&",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152157",
+    "name": "enter",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152157",
+    "name": "enter",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152157",
+    "path": "screenshots/screenshot_20241014_152157.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152201",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152201",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152202",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152202",
+    "path": "screenshots/screenshot_20241014_152202.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152202",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152202",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152202",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152202",
+    "path": "screenshots/screenshot_20241014_152202.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152202",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152202",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152202",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152202",
+    "path": "screenshots/screenshot_20241014_152202.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152202",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152202",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152202",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152202",
+    "path": "screenshots/screenshot_20241014_152202.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152203",
+    "path": "screenshots/screenshot_20241014_152203.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152203",
+    "path": "screenshots/screenshot_20241014_152203.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152203",
+    "path": "screenshots/screenshot_20241014_152203.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152203",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152204",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152203",
+    "path": "screenshots/screenshot_20241014_152203.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152204",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152204",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152204",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152204",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152204",
+    "path": "screenshots/screenshot_20241014_152204.png"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152204",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152204",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152204",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152204",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152204",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152204",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152205",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152205",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152205",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152206",
+    "name": "0",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152206",
+    "name": "0",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152206",
+    "path": "screenshots/screenshot_20241014_152206.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152206",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152206",
+    "name": "enter",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152206",
+    "name": "enter",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152206",
+    "path": "screenshots/screenshot_20241014_152206.png"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152207",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152207",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152208",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152208",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152211",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152211",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152213",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152213",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152216",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152216",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152217",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152217",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152219",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152219",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152220",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152220",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152220",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152221",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152221",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152221",
+    "path": "screenshots/screenshot_20241014_152221.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152221",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152221",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152222",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152222",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152222",
+    "path": "screenshots/screenshot_20241014_152222.png"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152222",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152222",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152222",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152222",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152222",
+    "path": "screenshots/screenshot_20241014_152222.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152223",
+    "path": "screenshots/screenshot_20241014_152223.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152223",
+    "path": "screenshots/screenshot_20241014_152223.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152223",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152223",
+    "path": "screenshots/screenshot_20241014_152223.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152223",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152223",
+    "path": "screenshots/screenshot_20241014_152223.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152223",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152223",
+    "path": "screenshots/screenshot_20241014_152223.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152224",
+    "path": "screenshots/screenshot_20241014_152224.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152224",
+    "path": "screenshots/screenshot_20241014_152224.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152224",
+    "path": "screenshots/screenshot_20241014_152224.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152224",
+    "path": "screenshots/screenshot_20241014_152224.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152224",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152224",
+    "path": "screenshots/screenshot_20241014_152224.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152225",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152225",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152225",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152225",
+    "path": "screenshots/screenshot_20241014_152225.png"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152225",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152225",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152228",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152228",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152229",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152229",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152230",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152230",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152230",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152231",
+    "path": "screenshots/screenshot_20241014_152231.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152231",
+    "path": "screenshots/screenshot_20241014_152231.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152231",
+    "path": "screenshots/screenshot_20241014_152231.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152231",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152231",
+    "path": "screenshots/screenshot_20241014_152231.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152231",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152231",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152231",
+    "path": "screenshots/screenshot_20241014_152231.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152232",
+    "path": "screenshots/screenshot_20241014_152232.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152232",
+    "path": "screenshots/screenshot_20241014_152232.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152232",
+    "path": "screenshots/screenshot_20241014_152232.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152232",
+    "path": "screenshots/screenshot_20241014_152232.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152232",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152232",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152233",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152232",
+    "path": "screenshots/screenshot_20241014_152232.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152233",
+    "path": "screenshots/screenshot_20241014_152233.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152233",
+    "path": "screenshots/screenshot_20241014_152233.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152233",
+    "path": "screenshots/screenshot_20241014_152233.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152233",
+    "path": "screenshots/screenshot_20241014_152233.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152233",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152233",
+    "path": "screenshots/screenshot_20241014_152233.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152234",
+    "path": "screenshots/screenshot_20241014_152234.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152234",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152234",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152234",
+    "path": "screenshots/screenshot_20241014_152234.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152234",
+    "path": "screenshots/screenshot_20241014_152234.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152234",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152234",
+    "path": "screenshots/screenshot_20241014_152234.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152235",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152235",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152235",
+    "path": "screenshots/screenshot_20241014_152235.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152235",
+    "path": "screenshots/screenshot_20241014_152235.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152235",
+    "path": "screenshots/screenshot_20241014_152235.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152235",
+    "path": "screenshots/screenshot_20241014_152235.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152235",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152235",
+    "path": "screenshots/screenshot_20241014_152235.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152236",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152236",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152236",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152236",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152239",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152239",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152239",
+    "path": "screenshots/screenshot_20241014_152239.png"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152239",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152240",
+    "path": "screenshots/screenshot_20241014_152240.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152240",
+    "path": "screenshots/screenshot_20241014_152240.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152240",
+    "path": "screenshots/screenshot_20241014_152240.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152240",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152240",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152241",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152240",
+    "path": "screenshots/screenshot_20241014_152240.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152241",
+    "path": "screenshots/screenshot_20241014_152241.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152241",
+    "path": "screenshots/screenshot_20241014_152241.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152241",
+    "path": "screenshots/screenshot_20241014_152241.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152241",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152241",
+    "path": "screenshots/screenshot_20241014_152241.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152242",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152242",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152242",
+    "path": "screenshots/screenshot_20241014_152242.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152242",
+    "path": "screenshots/screenshot_20241014_152242.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152242",
+    "path": "screenshots/screenshot_20241014_152242.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152242",
+    "path": "screenshots/screenshot_20241014_152242.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152242",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152242",
+    "path": "screenshots/screenshot_20241014_152242.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152243",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152243",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152243",
+    "path": "screenshots/screenshot_20241014_152243.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152243",
+    "path": "screenshots/screenshot_20241014_152243.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152243",
+    "path": "screenshots/screenshot_20241014_152243.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152243",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152243",
+    "path": "screenshots/screenshot_20241014_152243.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152244",
+    "path": "screenshots/screenshot_20241014_152244.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152244",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152244",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152244",
+    "path": "screenshots/screenshot_20241014_152244.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152244",
+    "path": "screenshots/screenshot_20241014_152244.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152244",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152244",
+    "path": "screenshots/screenshot_20241014_152244.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152245",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152245",
+    "path": "screenshots/screenshot_20241014_152245.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152245",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152245",
+    "path": "screenshots/screenshot_20241014_152245.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152245",
+    "path": "screenshots/screenshot_20241014_152245.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152245",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152245",
+    "path": "screenshots/screenshot_20241014_152245.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152246",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152246",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152246",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152246",
+    "path": "screenshots/screenshot_20241014_152246.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152246",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152246",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152246",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152246",
+    "path": "screenshots/screenshot_20241014_152246.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152246",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152246",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152246",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152246",
+    "path": "screenshots/screenshot_20241014_152246.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152247",
+    "path": "screenshots/screenshot_20241014_152247.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152247",
+    "path": "screenshots/screenshot_20241014_152247.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152247",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152247",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152247",
+    "path": "screenshots/screenshot_20241014_152247.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152247",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152247",
+    "path": "screenshots/screenshot_20241014_152247.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152248",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152248",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152248",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152248",
+    "path": "screenshots/screenshot_20241014_152248.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152248",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152248",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152248",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152248",
+    "path": "screenshots/screenshot_20241014_152248.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152248",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152249",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152249",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152249",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152249",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152249",
+    "path": "screenshots/screenshot_20241014_152249.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152249",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152249",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152249",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152249",
+    "path": "screenshots/screenshot_20241014_152249.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152249",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152249",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152249",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152249",
+    "path": "screenshots/screenshot_20241014_152249.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152250",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152250",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152250",
+    "path": "screenshots/screenshot_20241014_152250.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152250",
+    "path": "screenshots/screenshot_20241014_152250.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152250",
+    "path": "screenshots/screenshot_20241014_152250.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152250",
+    "path": "screenshots/screenshot_20241014_152250.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152250",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152250",
+    "path": "screenshots/screenshot_20241014_152250.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152251",
+    "path": "screenshots/screenshot_20241014_152251.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152251",
+    "path": "screenshots/screenshot_20241014_152251.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152251",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152251",
+    "path": "screenshots/screenshot_20241014_152251.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152251",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152251",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152251",
+    "path": "screenshots/screenshot_20241014_152251.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152252",
+    "path": "screenshots/screenshot_20241014_152252.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152252",
+    "path": "screenshots/screenshot_20241014_152252.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152252",
+    "path": "screenshots/screenshot_20241014_152252.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152252",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152252",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152252",
+    "path": "screenshots/screenshot_20241014_152252.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152252",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152252",
+    "path": "screenshots/screenshot_20241014_152252.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152253",
+    "path": "screenshots/screenshot_20241014_152253.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152253",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152253",
+    "path": "screenshots/screenshot_20241014_152253.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152253",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152253",
+    "path": "screenshots/screenshot_20241014_152253.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152253",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152253",
+    "path": "screenshots/screenshot_20241014_152253.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152254",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152254",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152254",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152254",
+    "path": "screenshots/screenshot_20241014_152254.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152254",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152254",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152254",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152254",
+    "path": "screenshots/screenshot_20241014_152254.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152254",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152254",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152254",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152254",
+    "path": "screenshots/screenshot_20241014_152254.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152255",
+    "path": "screenshots/screenshot_20241014_152255.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152255",
+    "path": "screenshots/screenshot_20241014_152255.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152255",
+    "path": "screenshots/screenshot_20241014_152255.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152255",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152255",
+    "path": "screenshots/screenshot_20241014_152255.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152256",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152256",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152256",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152256",
+    "path": "screenshots/screenshot_20241014_152256.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152256",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152256",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152256",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152256",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152256",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152256",
+    "path": "screenshots/screenshot_20241014_152256.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152257",
+    "path": "screenshots/screenshot_20241014_152257.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152257",
+    "path": "screenshots/screenshot_20241014_152257.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152257",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152257",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152257",
+    "path": "screenshots/screenshot_20241014_152257.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152257",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152257",
+    "path": "screenshots/screenshot_20241014_152257.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152258",
+    "path": "screenshots/screenshot_20241014_152258.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152258",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152258",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152258",
+    "path": "screenshots/screenshot_20241014_152258.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152258",
+    "path": "screenshots/screenshot_20241014_152258.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152258",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152258",
+    "path": "screenshots/screenshot_20241014_152258.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152259",
+    "path": "screenshots/screenshot_20241014_152259.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152259",
+    "path": "screenshots/screenshot_20241014_152259.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152259",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152259",
+    "path": "screenshots/screenshot_20241014_152259.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152259",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152259",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152259",
+    "path": "screenshots/screenshot_20241014_152259.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152301",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152301",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152301",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152301",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152301",
+    "path": "screenshots/screenshot_20241014_152301.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152301",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152301",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152301",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152301",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152301",
+    "path": "screenshots/screenshot_20241014_152301.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152302",
+    "path": "screenshots/screenshot_20241014_152302.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152302",
+    "path": "screenshots/screenshot_20241014_152302.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152302",
+    "path": "screenshots/screenshot_20241014_152302.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152302",
+    "path": "screenshots/screenshot_20241014_152302.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152302",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152302",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152302",
+    "path": "screenshots/screenshot_20241014_152302.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152303",
+    "path": "screenshots/screenshot_20241014_152303.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152303",
+    "path": "screenshots/screenshot_20241014_152303.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152303",
+    "path": "screenshots/screenshot_20241014_152303.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152303",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152303",
+    "path": "screenshots/screenshot_20241014_152303.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152303",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152303",
+    "path": "screenshots/screenshot_20241014_152303.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152304",
+    "path": "screenshots/screenshot_20241014_152304.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152304",
+    "path": "screenshots/screenshot_20241014_152304.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152304",
+    "path": "screenshots/screenshot_20241014_152304.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152304",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152304",
+    "path": "screenshots/screenshot_20241014_152304.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152305",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152305",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152305",
+    "path": "screenshots/screenshot_20241014_152305.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152305",
+    "path": "screenshots/screenshot_20241014_152305.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152305",
+    "path": "screenshots/screenshot_20241014_152305.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152305",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152305",
+    "path": "screenshots/screenshot_20241014_152305.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152306",
+    "path": "screenshots/screenshot_20241014_152306.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152306",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152306",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152306",
+    "path": "screenshots/screenshot_20241014_152306.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152306",
+    "path": "screenshots/screenshot_20241014_152306.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152306",
+    "path": "screenshots/screenshot_20241014_152306.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152306",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152306",
+    "path": "screenshots/screenshot_20241014_152306.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152307",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152307",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152308",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152308",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152310",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152310",
+    "path": "screenshots/screenshot_20241014_152310.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152310",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152310",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152310",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152310",
+    "path": "screenshots/screenshot_20241014_152310.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152311",
+    "path": "screenshots/screenshot_20241014_152311.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152311",
+    "path": "screenshots/screenshot_20241014_152311.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152311",
+    "path": "screenshots/screenshot_20241014_152311.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152311",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152311",
+    "path": "screenshots/screenshot_20241014_152311.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152312",
+    "path": "screenshots/screenshot_20241014_152312.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152312",
+    "path": "screenshots/screenshot_20241014_152312.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152312",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152312",
+    "path": "screenshots/screenshot_20241014_152312.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152312",
+    "path": "screenshots/screenshot_20241014_152312.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152312",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152312",
+    "path": "screenshots/screenshot_20241014_152312.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152313",
+    "path": "screenshots/screenshot_20241014_152313.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152313",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152313",
+    "path": "screenshots/screenshot_20241014_152313.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152313",
+    "path": "screenshots/screenshot_20241014_152313.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152313",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152314",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152314",
+    "path": "screenshots/screenshot_20241014_152314.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152314",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152314",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152314",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152314",
+    "path": "screenshots/screenshot_20241014_152314.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152314",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152314",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152314",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152314",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152314",
+    "path": "screenshots/screenshot_20241014_152314.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152315",
+    "path": "screenshots/screenshot_20241014_152315.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152315",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152315",
+    "path": "screenshots/screenshot_20241014_152315.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152315",
+    "path": "screenshots/screenshot_20241014_152315.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152315",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152315",
+    "path": "screenshots/screenshot_20241014_152315.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152316",
+    "path": "screenshots/screenshot_20241014_152316.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152316",
+    "path": "screenshots/screenshot_20241014_152316.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152316",
+    "path": "screenshots/screenshot_20241014_152316.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152316",
+    "path": "screenshots/screenshot_20241014_152316.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152316",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152317",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152317",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152316",
+    "path": "screenshots/screenshot_20241014_152316.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152317",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152317",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152317",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152317",
+    "path": "screenshots/screenshot_20241014_152317.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152317",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152317",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152317",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152318",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152318",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152318",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152323",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152323",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152324",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152324",
+    "path": "screenshots/screenshot_20241014_152324.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152324",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152327",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152327",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152328",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152328",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152328",
+    "path": "screenshots/screenshot_20241014_152328.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152329",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152329",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152329",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152329",
+    "path": "screenshots/screenshot_20241014_152329.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152329",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152329",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152331",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152331",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152331",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152332",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152332",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152332",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152335",
+    "name": "alt",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152335",
+    "path": "screenshots/screenshot_20241014_152335.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152335",
+    "name": "z",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152335",
+    "name": "z",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152335",
+    "name": "alt",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152335",
+    "path": "screenshots/screenshot_20241014_152335.png"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152336",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152337",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152339",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152339",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152340",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152340",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152341",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152341",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152342",
+    "button": "left",
+    "event_type": "double"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152342",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152343",
+    "name": "g",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152343",
+    "name": "g",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152343",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152343",
+    "path": "screenshots/screenshot_20241014_152343.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152344",
+    "name": "ctrl",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152345",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152346",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152346",
+    "path": "screenshots/screenshot_20241014_152346.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152346",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152346",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152346",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152346",
+    "path": "screenshots/screenshot_20241014_152346.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152346",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152346",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152346",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152346",
+    "path": "screenshots/screenshot_20241014_152346.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152347",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152347",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152347",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152347",
+    "path": "screenshots/screenshot_20241014_152347.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152347",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152347",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152347",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152347",
+    "path": "screenshots/screenshot_20241014_152347.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152347",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152347",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152347",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152347",
+    "path": "screenshots/screenshot_20241014_152347.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152348",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152348",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152348",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152348",
+    "path": "screenshots/screenshot_20241014_152348.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152348",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152348",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152348",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152348",
+    "path": "screenshots/screenshot_20241014_152348.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152348",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152348",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152348",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152348",
+    "path": "screenshots/screenshot_20241014_152348.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152349",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152349",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152349",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152349",
+    "path": "screenshots/screenshot_20241014_152349.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152349",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152349",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152349",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152349",
+    "path": "screenshots/screenshot_20241014_152349.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152349",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152349",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152349",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152349",
+    "path": "screenshots/screenshot_20241014_152349.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152350",
+    "path": "screenshots/screenshot_20241014_152350.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152350",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152350",
+    "path": "screenshots/screenshot_20241014_152350.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152350",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152350",
+    "path": "screenshots/screenshot_20241014_152350.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152350",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152350",
+    "path": "screenshots/screenshot_20241014_152350.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152351",
+    "path": "screenshots/screenshot_20241014_152351.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152351",
+    "path": "screenshots/screenshot_20241014_152351.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152351",
+    "path": "screenshots/screenshot_20241014_152351.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152351",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152351",
+    "path": "screenshots/screenshot_20241014_152351.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152352",
+    "path": "screenshots/screenshot_20241014_152352.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152352",
+    "path": "screenshots/screenshot_20241014_152352.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152352",
+    "path": "screenshots/screenshot_20241014_152352.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152352",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152352",
+    "path": "screenshots/screenshot_20241014_152352.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152353",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152353",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152353",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152353",
+    "path": "screenshots/screenshot_20241014_152353.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152353",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152353",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152353",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152353",
+    "path": "screenshots/screenshot_20241014_152353.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152353",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152353",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152353",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152353",
+    "path": "screenshots/screenshot_20241014_152353.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152354",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152354",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152354",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152354",
+    "path": "screenshots/screenshot_20241014_152354.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152354",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152354",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152354",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152354",
+    "path": "screenshots/screenshot_20241014_152354.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152354",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152354",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152354",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152354",
+    "path": "screenshots/screenshot_20241014_152354.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152355",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152355",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152355",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152355",
+    "path": "screenshots/screenshot_20241014_152355.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152355",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152355",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152355",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152355",
+    "path": "screenshots/screenshot_20241014_152355.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152355",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152355",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152355",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152355",
+    "path": "screenshots/screenshot_20241014_152355.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152356",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152356",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152356",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152356",
+    "path": "screenshots/screenshot_20241014_152356.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152356",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152356",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152356",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152356",
+    "path": "screenshots/screenshot_20241014_152356.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152358",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152358",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152358",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152358",
+    "path": "screenshots/screenshot_20241014_152358.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152400",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152400",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152400",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152400",
+    "path": "screenshots/screenshot_20241014_152400.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152400",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152400",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152400",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152400",
+    "path": "screenshots/screenshot_20241014_152400.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152400",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152400",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152400",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152400",
+    "path": "screenshots/screenshot_20241014_152400.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152401",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152401",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152401",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152401",
+    "path": "screenshots/screenshot_20241014_152401.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152401",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152401",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152401",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152401",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152401",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152401",
+    "path": "screenshots/screenshot_20241014_152401.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152401",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152401",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152401",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152401",
+    "path": "screenshots/screenshot_20241014_152401.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152402",
+    "path": "screenshots/screenshot_20241014_152402.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152402",
+    "path": "screenshots/screenshot_20241014_152402.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "ctrl",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152402",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152402",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152402",
+    "path": "screenshots/screenshot_20241014_152402.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "ctrl",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "tab",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152402",
+    "name": "tab",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152402",
+    "path": "screenshots/screenshot_20241014_152402.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152403",
+    "name": "tab",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152403",
+    "name": "tab",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152403",
+    "name": "alt",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152403",
+    "path": "screenshots/screenshot_20241014_152403.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152403",
+    "name": "z",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152403",
+    "name": "alt",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152403",
+    "name": "z",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152403",
+    "path": "screenshots/screenshot_20241014_152403.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152403",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152404",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152404",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152404",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152404",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152404",
+    "path": "screenshots/screenshot_20241014_152404.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152404",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152404",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152404",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152404",
+    "path": "screenshots/screenshot_20241014_152404.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152404",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152404",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152404",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152404",
+    "path": "screenshots/screenshot_20241014_152404.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152405",
+    "path": "screenshots/screenshot_20241014_152405.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152405",
+    "path": "screenshots/screenshot_20241014_152405.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152405",
+    "path": "screenshots/screenshot_20241014_152405.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152405",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152405",
+    "path": "screenshots/screenshot_20241014_152405.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152406",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152406",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152406",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152406",
+    "path": "screenshots/screenshot_20241014_152406.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152406",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152406",
+    "name": "s",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152406",
+    "name": "s",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152406",
+    "path": "screenshots/screenshot_20241014_152406.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152407",
+    "name": "y",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152407",
+    "name": "y",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152413",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152413",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152417",
+    "name": "tab",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152417",
+    "path": "screenshots/screenshot_20241014_152417.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152417",
+    "name": "tab",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152419",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152420",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152421",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152422",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152422",
+    "button": "right",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152422",
+    "button": "right",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152423",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152423",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152425",
+    "button": "left",
+    "event_type": "down"
+  },
+  {
+    "type": "click",
+    "timestamp": "20241014_152425",
+    "button": "left",
+    "event_type": "up"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152430",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152430",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152430",
+    "path": "screenshots/screenshot_20241014_152430.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152430",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152430",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152430",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152430",
+    "path": "screenshots/screenshot_20241014_152430.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152431",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152431",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152431",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152431",
+    "path": "screenshots/screenshot_20241014_152431.png"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152431",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152431",
+    "name": "maj",
+    "event_type": "down"
+  },
+  {
+    "type": "key",
+    "timestamp": "20241014_152431",
+    "name": "maj",
+    "event_type": "up"
+  },
+  {
+    "type": "screenshot",
+    "timestamp": "20241014_152431",
+    "path": "screenshots/screenshot_20241014_152431.png"
+  }
+]
